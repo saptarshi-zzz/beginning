@@ -1,2 +1,2 @@
 # beginning
-My first repository in GitHub
+My first repository in GitHub.
